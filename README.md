@@ -1,6 +1,6 @@
 # EDA-Project-Hotel-Booking-Analysis-
 
-![Example Image](Pair_plot.png)
+![Example Image](Hotel_booking.jpg)
 
 
 
