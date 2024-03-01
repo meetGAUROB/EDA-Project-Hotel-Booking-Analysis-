@@ -7,7 +7,7 @@
 ## Overview:
 The Hotel Booking Analysis project analyzes a dataset containing hotel booking information to uncover trends and patterns. Through exploratory data analysis, insights are gained into booking patterns, guest preferences, pricing dynamics, revenue generation, and operational efficiency. The project provides recommendations for improving the hotel booking system, focusing on streamlining the booking process, enhancing guest satisfaction, maximizing revenue opportunities, and improving operational efficiency.
 
-## Problem Statement
+## Problem Statement:
 **Booking Process:** How can hotels make it simpler for people to book rooms? What makes people book early or late, and how can hotels use this to manage rooms better?
 
 **Cancellation:** Why do people cancel bookings, and how can hotels stop this from happening? Are there things hotels can do to change this, like having flexible rules?
@@ -18,7 +18,7 @@ The Hotel Booking Analysis project analyzes a dataset containing hotel booking i
 
 **Efficiency:** How can hotels do things better and faster? Can they use technology to manage bookings and staff more efficiently?
 
-## Business Objective
+## Business Objective:
 
 The main goal is to make our hotel better in every way, so we can make more money and keep our guests happy.
 
