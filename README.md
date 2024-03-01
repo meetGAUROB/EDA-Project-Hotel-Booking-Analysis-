@@ -23,7 +23,10 @@ The Hotel Booking Analysis project analyzes a dataset containing hotel booking i
 The main goal is to make our hotel better in every way, so we can make more money and keep our guests happy.
 
 **Making Booking Easier:** We want to make it really easy for people to book rooms at our hotel, so more people will choose to stay with us.
+
 **Keeping Guests Happy:** We want to make sure our guests have a great time when they stay with us. This means giving them what they want and making sure they leave happy.
+
 **Making More Money:** Of course, we want to make as much money as we can. We'll do this by charging fair prices, offering extra services people are willing to pay for, and filling up our rooms as much as possible.
+
 **Working Smarter:** We want to be as efficient as possible. That means using technology to help us manage things like bookings and staff, so we can spend more time making our guests happy.
 By leveraging the insights provided by the given data, we can enhance our efforts towards achieving our business objectives.
